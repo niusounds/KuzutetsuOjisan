@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="false">
+    <item
+        android:drawable="@drawable/pyon1"
+        android:duration="@integer/animation_frame_time" />
+    <item
+        android:drawable="@drawable/pyon2"
+        android:duration="@integer/animation_frame_time" />
+    <item
+        android:drawable="@drawable/pyon3"
+        android:duration="@integer/animation_frame_time" />
+    <item
+        android:drawable="@drawable/pyon4"
+        android:duration="@integer/animation_frame_time" />
+    <item
+        android:drawable="@drawable/pyon5"
+        android:duration="@integer/animation_frame_time" />
+</animation-list>
